@@ -14,6 +14,9 @@ We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D ros
 
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/IMG_4048.jpg?raw=true)
 
+
+
+# ISMRM Workshop on MR Imaging of X‐Nuclei (23Na & Friends): 02 February 2022
 ## References 
 [1] X. Shen et al., Magn Reson Med, 2022. 
 [2] A. M. Nagel, et. al. Magn Reson Med, 2009.
