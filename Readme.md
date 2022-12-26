@@ -12,6 +12,9 @@ We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D ros
 
 ## Results
 
+![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/UTE-MT.png?raw=true)
+
+
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/IMG_4048.jpg?raw=true)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z3kach8gSqQ/0.jpg)](https://www.youtube.com/watch?v=Z3kach8gSqQ)
