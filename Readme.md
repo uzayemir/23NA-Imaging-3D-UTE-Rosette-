@@ -14,7 +14,7 @@ We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D ros
 
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/UTE-MT.png?raw=true)
 
-### AI based denosing vs Regridding
+### AI based denoising vs Regridding
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iPfKV2RqXD4/0.jpg)](https://www.youtube.com/watch?v=iPfKV2RqXD4)
 
