@@ -13,6 +13,7 @@ We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D ros
 ## Results
 ClearSWI processing
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/images.png?raw=true)
+[![IMAGE ALT TEXT HERE](https://youtu.be/T4NGwJ9wQ_I/0.jpg)](https://youtu.be/T4NGwJ9wQ_I)
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/image2.jpg?raw=true)
 
 
