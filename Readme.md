@@ -11,12 +11,12 @@ We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D ros
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/Table1.png?raw=true)
 
 ## Results
-###Final Comparison 
+### Final Comparison 
 
 [alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/image23NAcomparison.png?raw=true)
 
 
-###23NA Brain Univesity of Bergen 
+### 23NA Brain Univesity of Bergen 
 Delay From the end RF pulse is 5 us
 Delay from the middle of the RF pulse is 105 us 
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/23nabrain.png?raw=true)
