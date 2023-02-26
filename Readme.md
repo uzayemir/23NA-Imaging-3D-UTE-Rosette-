@@ -13,7 +13,7 @@ We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D ros
 ## Results
 ### Final Comparison 
 
-[alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/image23NAcomparison.png?raw=true)
+![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/image23NAcomparison.png?raw=true)
 
 
 ### 23NA Brain Univesity of Bergen 
