@@ -2,6 +2,18 @@
 
 We have developed a novel 23Na ultrashort echo time (UTE) sequence with a 3D rosette k-space trajectory [1] to improve spatial resolution and with dual echo to enable quantification of T2* constant, which is also correlated with tissue health. We then benchmark our novel sequence against the gold-standard fast 23Na MRI technique with 3D density-adapted radial k-space acquisition [2].
 
+# Congratulations to the team; the 31P #MRS #Reproducibility Team got 2nd place.
+
+![alt text](https://github.com/uzayemir/31P-MRSI/blob/main/resultsismrm.jpg?raw=true)
+
+## Ultrashort echo time (50 us) 31P 3D Rosette MRS Reproducibility Challenge make 31P #MRS a clinically viable option, and it is now appropriate to develop and evaluate protocols suitable for clinical practice and use them to investigate metabolism.
+
+### Ulrich Pilatus Goethe University Frankfurt
+### Seyma Alcicek Goethe University Frankfurt 
+### Alexander Richard Craig-Craven University of Bergen 
+
+
+
 ## Authors
 
 ![alt text](https://github.com/uzayemir/23NA-Imaging-3D-UTE-Rosette-/blob/main/authors.png?raw=true)
